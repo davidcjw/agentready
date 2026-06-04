@@ -6,7 +6,7 @@
 
 AgentReady analyzes your repository's agent instruction files (AGENTS.md, CLAUDE.md, Copilot instructions, Cursor rules) for actual content quality — not just presence — and returns a 0–10 score with an embeddable badge and a detailed per-signal report.
 
-🔗 **[agentready-gules.vercel.app](https://agentready-gules.vercel.app)**
+🔗 **[agentready.davidcjw.com](https://agentready.davidcjw.com)**
 
 ## What it checks
 
