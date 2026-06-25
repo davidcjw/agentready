@@ -1,12 +1,27 @@
 # AgentReady
 
-[![AgentReady Score](https://agentready-gules.vercel.app/api/badge/davidcjw/agentready)](https://agentready-gules.vercel.app/results/davidcjw/agentready)
+[![AgentReady Score](https://agentready-gules.vercel.app/api/badge/davidcjw/agentready)](https://agentready-gules.vercel.app/results/davidcjw/agentready) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 **How ready is your GitHub repo for AI agent collaboration?**
 
 AgentReady analyzes your repository's agent instruction files (AGENTS.md, CLAUDE.md, Copilot instructions, Cursor rules) for actual content quality — not just presence — and returns a 0–10 score with an embeddable badge and a detailed per-signal report.
 
 🔗 **[agentready.davidcjw.com](https://agentready.davidcjw.com)**
+
+<p align="center">
+  <img src="docs/agentready.png" alt="AgentReady landing page — analyze any GitHub repo for AI agent readiness" width="720">
+</p>
+
+## Table of Contents
+
+- [What it checks](#what-it-checks)
+- [Score tiers](#score-tiers)
+- [Embeddable badge](#embeddable-badge)
+- [Development](#development)
+- [Stack](#stack)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
+- [License](#license)
 
 ## What it checks
 
@@ -79,3 +94,23 @@ Open [http://localhost:3000](http://localhost:3000).
 ## Stack
 
 Next.js 16 · TypeScript · Tailwind CSS · GitHub REST API
+
+## Contributing
+
+Contributions are welcome! Please open an issue first to discuss what you'd like to change.
+
+1. Fork the repo
+2. Create a feature branch (`git checkout -b feature/your-feature`)
+3. Commit your changes (`git commit -m 'feat: describe change'`)
+4. Push and open a pull request
+
+Please make sure `npm run lint` and `npm run build` pass before submitting a PR.
+
+## Code of Conduct
+
+This project follows the [Contributor Covenant v2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
+By participating you agree to uphold a welcoming, harassment-free environment.
+
+## License
+
+Distributed under the MIT License. See [LICENSE](LICENSE) for details.

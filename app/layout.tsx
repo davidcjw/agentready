@@ -13,12 +13,21 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://agentready.davidcjw.com"),
   title: "AgentReady — AI Agent Readiness Scorer",
   description:
     "Score your GitHub repository's readiness for AI agent collaboration. Get an embeddable badge and detailed report.",
   openGraph: {
-    title: "AgentReady",
-    description: "How ready is your repo for AI agents?",
+    type: "website",
+    url: "https://agentready.davidcjw.com",
+    siteName: "AgentReady",
+    title: "AgentReady — AI Agent Readiness Scorer",
+    description: "How ready is your repo for AI agent collaboration?",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "AgentReady — AI Agent Readiness Scorer",
+    description: "How ready is your repo for AI agent collaboration?",
   },
 };
 
