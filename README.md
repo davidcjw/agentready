@@ -1,6 +1,6 @@
 # AgentReady
 
-[![AgentReady Score](https://agentready-gules.vercel.app/api/badge/davidcjw/agentready)](https://agentready-gules.vercel.app/results/davidcjw/agentready) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![AgentReady Score](https://agentready.davidcjw.com/api/badge/davidcjw/agentready)](https://agentready.davidcjw.com/results/davidcjw/agentready) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 **How ready is your GitHub repo for AI agent collaboration?**
 
@@ -64,7 +64,7 @@ The primary signal. Scored on **which file type** is present and **what the cont
 ## Embeddable badge
 
 ```markdown
-[![AgentReady Score](https://agentready-gules.vercel.app/api/badge/owner/repo)](https://agentready-gules.vercel.app/results/owner/repo)
+[![AgentReady Score](https://agentready.davidcjw.com/api/badge/owner/repo)](https://agentready.davidcjw.com/results/owner/repo)
 ```
 
 ## Development
