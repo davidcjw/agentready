@@ -1,5 +1,7 @@
 # AgentReady
 
+[![CI](https://github.com/davidcjw/agentready/actions/workflows/ci.yml/badge.svg)](https://github.com/davidcjw/agentready/actions/workflows/ci.yml)
+
 [![AgentReady Score](https://agentready.davidcjw.com/api/badge/davidcjw/agentready)](https://agentready.davidcjw.com/results/davidcjw/agentready) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 **How ready is your GitHub repo for AI agent collaboration?**
